@@ -1,2 +1,1 @@
-# shalini-projects
-Personal Projects
+# Personal Projects
